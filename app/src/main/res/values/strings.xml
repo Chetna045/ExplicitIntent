@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">explicit</string>
+    <string name="call">call</string>
+    <string name="enter_the_no">enter the no.</string>
+</resources>
